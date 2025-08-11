@@ -7,7 +7,7 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by Anakin)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.2.5</h3>
-    <h3>과정: LGCNS AM Inspire 1기</h3>
+    <h3>Version: 2025.08.11</h3>
+    <h3>Cource : jenkins on Tomcat Server!</h3>
 </body>
 </html>
